@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.eebe90ad.chunk.js": "/Quote-App/static/js/0.eebe90ad.chunk.js",
+    "static/js/0.eebe90ad.chunk.js.map": "/Quote-App/static/js/0.eebe90ad.chunk.js.map",
+    "main.css": "/Quote-App/static/css/main.846005a1.chunk.css",
+    "main.js": "/Quote-App/static/js/main.9c87be2b.chunk.js",
+    "main.js.map": "/Quote-App/static/js/main.9c87be2b.chunk.js.map",
+    "runtime-main.js": "/Quote-App/static/js/runtime-main.0f63a93c.js",
+    "runtime-main.js.map": "/Quote-App/static/js/runtime-main.0f63a93c.js.map",
+    "static/js/3.72c02a7b.chunk.js": "/Quote-App/static/js/3.72c02a7b.chunk.js",
+    "static/js/3.72c02a7b.chunk.js.map": "/Quote-App/static/js/3.72c02a7b.chunk.js.map",
+    "static/css/4.27dd9c12.chunk.css": "/Quote-App/static/css/4.27dd9c12.chunk.css",
+    "static/js/4.8f440479.chunk.js": "/Quote-App/static/js/4.8f440479.chunk.js",
+    "static/js/4.8f440479.chunk.js.map": "/Quote-App/static/js/4.8f440479.chunk.js.map",
+    "static/css/5.8804eb99.chunk.css": "/Quote-App/static/css/5.8804eb99.chunk.css",
+    "static/js/5.964fd28c.chunk.js": "/Quote-App/static/js/5.964fd28c.chunk.js",
+    "static/js/5.964fd28c.chunk.js.map": "/Quote-App/static/js/5.964fd28c.chunk.js.map",
+    "static/css/6.cdab01c3.chunk.css": "/Quote-App/static/css/6.cdab01c3.chunk.css",
+    "static/js/6.296ed475.chunk.js": "/Quote-App/static/js/6.296ed475.chunk.js",
+    "static/js/6.296ed475.chunk.js.map": "/Quote-App/static/js/6.296ed475.chunk.js.map",
+    "static/js/7.ae3c07ab.chunk.js": "/Quote-App/static/js/7.ae3c07ab.chunk.js",
+    "static/js/7.ae3c07ab.chunk.js.map": "/Quote-App/static/js/7.ae3c07ab.chunk.js.map",
+    "index.html": "/Quote-App/index.html",
+    "static/css/4.27dd9c12.chunk.css.map": "/Quote-App/static/css/4.27dd9c12.chunk.css.map",
+    "static/css/5.8804eb99.chunk.css.map": "/Quote-App/static/css/5.8804eb99.chunk.css.map",
+    "static/css/6.cdab01c3.chunk.css.map": "/Quote-App/static/css/6.cdab01c3.chunk.css.map",
+    "static/css/main.846005a1.chunk.css.map": "/Quote-App/static/css/main.846005a1.chunk.css.map",
+    "static/js/3.72c02a7b.chunk.js.LICENSE.txt": "/Quote-App/static/js/3.72c02a7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f63a93c.js",
+    "static/js/3.72c02a7b.chunk.js",
+    "static/css/main.846005a1.chunk.css",
+    "static/js/main.9c87be2b.chunk.js"
+  ]
+}
